@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Emanuel2.0",
+      "empresa": "Uala",
+      "email": "emanuel.maggiolk@gmail.com",
+      "telefono": "2235186922",
+      "notas": "no lo se",
+      "id": 1
+    },
+    {
+      "nombre": "Emanuel",
+      "empresa": "Uala",
+      "email": "emanuel.maggiolk@gmail.com",
+      "telefono": "2235186922",
+      "notas": "asdasd",
+      "id": 2
+    },
+    {
+      "nombre": "Martina",
+      "empresa": "HPC",
+      "email": "emanuel.maggiolk@gmail.com",
+      "telefono": "2235186922",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
